@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Desirae Reed
+N;CHARSET=UTF-8:Reed;Desirae;;;
+NICKNAME;CHARSET=UTF-8:Des
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:dynamifittraining2020@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dynamifittraining2020@gmail.com
+TEL;TYPE=WORK,VOICE:(573) 535-4720
+TITLE;CHARSET=UTF-8:Fitness Trainer
+ROLE;CHARSET=UTF-8:Fitness Trainer
+ORG;CHARSET=UTF-8:DynamiFit Training
+URL;type=WORK;CHARSET=UTF-8:https://www.dynamifittraining.com/
+REV:2024-07-03T00:03:22.128Z
+END:VCARD
